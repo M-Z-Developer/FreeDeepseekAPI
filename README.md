@@ -2,7 +2,6 @@
 
 - ✅ **No API key required** - Completely free access
 - ✅ **Unlimited requests** - No usage limits or quotas
-- ✅ **Simple setup** - Just bypass one advertisement
 - ✅ **Always available** - 24/7 uptime
 
 ## 📋 Usage Guidelines
@@ -15,8 +14,7 @@
 ## ⚠️ Important Notes
 
 - The endpoint URL may change periodically
-- Always use the short-link to get the latest endpoint
-- Not affiliated with Google or Gemini
+- Not affiliated with DeepSeek
 
 ---
 
