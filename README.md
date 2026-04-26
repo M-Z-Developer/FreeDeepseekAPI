@@ -7,9 +7,8 @@
 ## 📋 Usage Guidelines
 
 1. Use the API responsibly and ethically
-2. Do not attempt to bypass the ad verification system
-3. Respect rate limits (if implemented for stability)
-4. Report any issues via GitHub Issues
+2. Respect rate limits (if implemented for stability)
+3. Report any issues via GitHub Issues
 
 ## ⚠️ Important Notes
 
