@@ -1234,7 +1234,8 @@
             if (!res.ok) throw new Error(`HTTP Error`);
             const result = await res.json();
             if (result.success && result.data) {
-                let aiResponse = result.data.response || "لا يوجد رد.";
+                // ✅ تم التعديل هنا: تغيير من result.data.response إلى result.data.message
+                let aiResponse = result.data.message || "لا يوجد رد.";
                 addMessageToUI('ai', aiResponse);
             } else {
                 throw new Error('استجابة خاطئة');
